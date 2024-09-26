@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hararymnan.github.io/sitemap.hararymnan.gz
+Sitemap: https://hararymnan.github.io/app/sitemap.hararymnan.gz
+Sitemap: https://hararymnan.github.io/assets/sitemap.hararymnan.gz
+Sitemap: https://hararymnan.github.io/css/sitemap.hararymnan.gz
+Sitemap: https://hararymnan.github.io/data/sitemap.hararymnan.gz
+Sitemap: https://hararymnan.github.io/includes/sitemap.hararymnan.gz
+Sitemap: https://hararymnan.github.io/item/sitemap.hararymnan.gz
+Sitemap: https://hararymnan.github.io/src/sitemap.hararymnan.gz
